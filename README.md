@@ -1,2 +1,7 @@
 # DCGAN_MNIST
-This implements Deep Convolutional Generative Adversarial Network (DCGAN) using Tensorflow. 
+Author: Aritra Ray, Intern at Futurewei Technologies, USA, PhD Student at Duke University. 
+
+This implements Deep Convolutional Generative Adversarial Network (DCGAN) on MNIST dataset using Tensorflow. 
+
+Implementation Details: 
+git clone
