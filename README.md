@@ -5,6 +5,7 @@ This implements Deep Convolutional Generative Adversarial Network (DCGAN) on MNI
 
 # Installation:  
 git clone https://github.com/Aritra-14/DCGAN_MNIST.git 
+
 cd DCGAN_MNIST
 
 pip install -r requirements.txt
