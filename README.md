@@ -1,5 +1,5 @@
 # DCGAN_MNIST
-Author: Aritra Ray, Intern at Futurewei Technologies, USA, PhD Student at Duke University. 
+Author: Aritra Ray, Intern at Futurewei Technologies, USA, and PhD Student at Duke University. 
 
 Brief Description: This implements Deep Convolutional Generative Adversarial Network (DCGAN) on MNIST dataset using Tensorflow. 
 
