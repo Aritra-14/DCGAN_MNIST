@@ -10,5 +10,5 @@ cd DCGAN_MNIST
 
 pip install -r requirements.txt
 
-# Quick Start 
+# Execute the Code: 
 python DCGAN.py
